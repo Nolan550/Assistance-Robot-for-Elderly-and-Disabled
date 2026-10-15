@@ -1,5 +1,3 @@
-# Assistance-Robot-for-Elderly-and-Disabled
-
 # ARED — Assistance Robot for Elderly and Disabled
 
 **ARED (Assistance Robot for Elderly and Disabled)** is a robotics project aimed at developing an assistive robot that can support elderly people and people with disabilities through basic robotic movement, obstacle detection, and navigation.
